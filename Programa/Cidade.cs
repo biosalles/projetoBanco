@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 
+
+
 namespace Programa
 {
     internal class Cidade
