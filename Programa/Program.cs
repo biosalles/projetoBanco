@@ -19,6 +19,7 @@ namespace Programa
         {
             try
             {
+
                 var cidade = new Cidade("Vancouver", "BC");
                 var endereco = new Endereco("University street", "downtown", "13219-000", 100, cidade);
                 var cliente = new Cliente("Grillo", "1245667412342453", new DateTime(1985, 7, 1), endereco);
